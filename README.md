@@ -8,6 +8,6 @@ I am a new graduate :mortar_board: of the University of Calgary. Seeking to lear
 - :blue_book: Curious about system design! Love learning about modern website deployments and how they are scaled to serve millions
 
 ### Currently
-- 💳 Junior Software Developer with Helcim
+- 💳 Software Developer working on web apps and hardware
 - :robot: Looking to tinker with some hardware and C++
 - :iphone: Potentially jumping into mobile app development
